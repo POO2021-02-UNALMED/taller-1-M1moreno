@@ -1,3 +1,1 @@
-Michael Moreno Valoyes
-20 años
-Espero adquirir conocimientos de programación orientada a objetos para aprender las bases de desarrolar software
+La carpeta de archivos ahora es visible en el repositorio web.
