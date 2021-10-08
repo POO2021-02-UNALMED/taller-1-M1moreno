@@ -1,3 +1,3 @@
 La carpeta de archivos ahora es visible en el repositorio web.
 
-Modificar dos archivos al mismo tiempo puede generar inconsistencias en lo que tenemos en github y lo que tenemos localmente que luego teneos que invertir tiempo en reolver, es más sencillo manejar un solo archivo.
+Modificar dos archivos al mismo tiempo puede generar inconsistencias en lo que tenemos en github y lo que tenemos localmente que luego teneos que invertir tiempo en resolver, es más sencillo manejar un solo archivo.
