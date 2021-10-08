@@ -1,3 +1,7 @@
 La carpeta de archivos ahora es visible en el repositorio web.
 
+Nombre: Michael Moreno Valoyes
+Edad: 20
+Aspiraciones: Aprender conceptos de POO para tener las bases de conocimiento en desarrollo de software.
+
 Modificar dos archivos al mismo tiempo puede generar inconsistencias en lo que tenemos en github y lo que tenemos localmente que luego teneos que invertir tiempo en resolver, es más sencillo manejar un solo archivo.
